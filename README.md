@@ -54,4 +54,3 @@ I hope that the recording and the exercises in this repository prove
 useful if you are interested in learning more about Python and its data
 analysis capabilities!
 
-— [Brandon Rhodes](http://rhodesmill.org/brandon/)
